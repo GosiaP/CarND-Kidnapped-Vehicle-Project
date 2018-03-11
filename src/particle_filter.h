@@ -37,7 +37,7 @@ class ParticleFilter {
 	
 	// Vector of weights of all particles
 	std::vector<double> weights;
-	
+
 public:
 	
 	// Set of current particles
@@ -45,7 +45,7 @@ public:
 
 	// Constructor
 	// @param num_particles Number of particles
-	ParticleFilter() : num_particles(0), is_initialized(false) {}
+	ParticleFilter() : num_particles(20), is_initialized(false) {}
 
 	// Destructor
 	~ParticleFilter() {}
