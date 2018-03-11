@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\udacity_2\CarND-Kidnapped-Vehicle-Project\build\CMakeFiles\6c7bac0e3e0b4ec6499f5eaf5b5821bf\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{53AD1BBA-782E-3021-A2A3-DEE412CD501E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
